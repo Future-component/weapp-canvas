@@ -1,0 +1,1 @@
+https://github.com/wechat-miniprogram/sm-crypto
